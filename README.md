@@ -40,9 +40,6 @@ If you found this project useful or interesting, please consider giving it a sta
 
 3. **Click the Star Button**: At the top right of the repository page, click the "Star" button. That’s it!
 
-![Star](https://user-images.githubusercontent.com/your-image-path/star_button_example.png)
-
-Thank you for your support!
 
 
  
