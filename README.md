@@ -30,6 +30,19 @@ For the investigations, the publicly accessible CelebFaces Attributes (CelebA) d
 ### Give Google Colab a try!
 By clicking the link at the top of the notebook, you may quickly examine and run the source code in a Google Colab environment. You can also check [here](http://colab.research.google.com/github/AbhiJeet70/PerceptualLossVAE/blob/main/Perceptual_Loss_in_VAE.ipynb)
 
+## ⭐ Give a Star!
+
+If you found this project useful or interesting, please consider giving it a star on GitHub! Your support is greatly appreciated and helps to motivate me to keep improving the project. Here’s how you can give a star:
+
+1. **Sign in to GitHub**: Make sure you are logged into your GitHub account. If you don't have an account, please sign up.
+
+2. **Navigate to the Repository**: Go to the repository page.
+
+3. **Click the Star Button**: At the top right of the repository page, click the "Star" button. That’s it!
+
+![Star](https://user-images.githubusercontent.com/your-image-path/star_button_example.png)
+
+Thank you for your support!
 
 
  
