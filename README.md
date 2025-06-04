@@ -27,8 +27,6 @@ For the investigations, the publicly accessible CelebFaces Attributes (CelebA) d
 2. Launch and operate the Jupyter Notebook or Google Colab notebook [Perceptual_Loss_in_VAE.ipynb](Perceptual_Loss_in_VAE.ipynb) in your preferred environment.
 3. Use the notebook's instructions to experiment with the VAE models and evaluate how well they work.
 
-### Give Google Colab a try!
-By clicking the link at the top of the notebook, you may quickly examine and run the source code in a Google Colab environment. You can also check [here](http://colab.research.google.com/github/AbhiJeet70/PerceptualLossVAE/blob/main/Perceptual_Loss_in_VAE.ipynb)
 
 ## ⭐ Give a Star!
 
