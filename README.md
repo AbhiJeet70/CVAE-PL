@@ -1,6 +1,6 @@
 # Celebrity Image Reconstruction using Deep Convolutional Variational AutoEncoder with Perceptual Loss (CVAE-PL)
 
-In this study, two variants of Variational AutoEncoders (VAE) are investigated for their effectiveness in producing and reconstructing images using two different kinds of loss functions: feature perceptual loss (CVAE_PL) and pixel-by-pixel loss (PVAE) . The Jupyter Notebook with the name [Perceptual_Loss_in_VAE.ipynb](Perceptual_Loss_in_VAE.ipynb) contains the documentation and execution of the Python implementation.
+In this study, two variants of Variational AutoEncoders (VAE) are investigated for their effectiveness in producing and reconstructing images using two different kinds of loss functions: feature perceptual loss (CVAE_PL) and pixel-by-pixel loss (PVAE) . This work is a modularized version of this kaggle Notebook with the name [[Celeb Faces] : VAE trained with Perceptual Loss](https://www.kaggle.com/code/arnrob/celeb-faces-vae-trained-with-perceptual-loss).
 
 # VAE Architecture with Perceptual Loss
 ![Autoencoder Network Architecture](images/VAE-with-perceptual-loss-architecture-overview.png)
